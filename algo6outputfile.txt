@@ -1,0 +1,22 @@
+100
+4 60 82
+121 55 133 105 112 113 145 135 81
+Rented 60 benches for 19680
+Rented 1 stools for 240    
+Rented 1 stools for 240    
+Rented 6 benches for 1968  
+Rented 1 stools for 240    
+Rented 1 stools for 240    
+Rented 1 stools for 240    
+Rented 6 benches for 1968  
+Rented 1 stools for 240    
+Case #1: 389 25056
+3 85 92
+173 58 124 113 72 142 99 140 85
+Rented 42 benches for 17010
+Rented 1 stools for 10935
+Rented 4 benches for 1620
+Rented 40 benches for 16200
+Rented 1 stools for 10935
+Rented 1 stools for 10935
+Case #2: 357 67635

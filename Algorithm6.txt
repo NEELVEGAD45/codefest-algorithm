@@ -1,0 +1,29 @@
+Algorithm:
+
+Read the value of T, the number of test cases.
+
+For each test case, do the following:
+
+a. Read the values of B, C, and D.
+
+b. Read the values of E, the number of customers at each time interval.
+
+c. Initialize the variables bench_count, stool_count, and total_rent to 0.
+
+d. For each time interval, do the following:
+
+i. If the number of customers is greater than or equal to 2, rent/purchase a bench.
+
+- Add the cost of the bench to the total_rent.
+  - Increase bench_count by 1.
+
+  - If the number of customers is odd, rent/purchase a stool.
+
+    * Add the cost of the stool to the total_rent.
+    * Increase stool_count by 1.
+ii. If the number of customers is odd and less than 2, rent/purchase a stool.
+
+- Add the cost of the stool to the total_rent.
+  - Increase stool_count by 1.
+
+e. Output the values of bench_count and total_rent for the test case.
